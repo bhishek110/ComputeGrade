@@ -1,34 +1,21 @@
-<<<<<<< HEAD
-<project xmlns="http://maven.apache.org/POM/4.0.0">
-  <modelVersion>4.0.0</modelVersion>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-  <groupId>com.example</groupId>
-  <artifactId>currency</artifactId>
-  <version>1.0</version>
+    <modelVersion>4.0.0</modelVersion>
 
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
-=======
-<project xmlns="http://maven.apache.org/POM/4.0.0">
-  <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>ComputeGrade</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
-  <groupId>com.example</groupId>
-  <artifactId>currency</artifactId>
-  <version>1.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
->>>>>>> c611b85e1ec66da3542eac0cef4a1e5a8b34156a
 </project>
